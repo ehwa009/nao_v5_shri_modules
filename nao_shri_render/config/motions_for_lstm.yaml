@@ -1,0 +1,79 @@
+greeting: [
+    sm_tag/greeting/motion1,
+    sm_tag/greeting/motion2,
+    sm_tag/greeting/motion3,
+    sm_tag/greeting/motion4,
+]
+
+request: [
+    sm_tag/command/motion1,
+    sm_tag/command/motion2,
+    sm_tag/command/motion3,
+    sm_tag/command/motion4,
+]
+
+multiple_choice: [
+    sm_tag/command/motion1,
+    sm_tag/command/motion2,
+    sm_tag/command/motion3,
+    sm_tag/command/motion4,
+]
+
+thanks: [
+    sm_tag/praise/motion1,
+    sm_tag/praise/motion2,
+    sm_tag/praise/motion3,
+    sm_tag/praise/motion4,
+]
+
+# confirm_answer: [
+#     sm_tag/waiting/motion1,
+#     sm_tag/waiting/motion2,
+#     sm_tag/waiting/motion3,
+#     sm_tag/waiting/motion4,
+# ]
+
+not_sure: [
+    sm_tag/command/motion1,
+    sm_tag/command/motion2,
+    sm_tag/command/motion3,
+    sm_tag/command/motion4,
+]
+
+deny: [
+    sm_tag/advice/motion1,
+    sm_tag/advice/motion2,
+    sm_tag/advice/motion3,
+    sm_tag/advice/motion4,
+]
+
+welcome: [
+    sm_tag/greeting/motion1,
+    sm_tag/greeting/motion2,
+    sm_tag/greeting/motion3,
+    sm_tag/greeting/motion4,
+]
+
+closing: [
+    sm_tag/greeting/motion1,
+    sm_tag/greeting/motion2,
+    sm_tag/greeting/motion3,
+    sm_tag/greeting/motion4,
+]
+
+confirm_answer: [
+    sm_tag/consolation/motion1,
+    sm_tag/consolation/motion2,
+    sm_tag/consolation/motion3,
+    sm_tag/consolation/motion4,
+    sm_tag/consolation/motion5,
+]
+
+inform: [
+    sm_tag/attention/motion1,
+    sm_tag/attention/motion2,
+    sm_tag/attention/motion3,
+    sm_tag/attention/motion4,
+    sm_tag/attention/motion5,
+    sm_tag/attention/motion6,
+]
